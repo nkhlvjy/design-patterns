@@ -1,3 +1,5 @@
+package adapter;
+
 public class VegBiryani extends Biryani {
     Pulao pulao;
 

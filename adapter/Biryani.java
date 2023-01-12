@@ -1,3 +1,5 @@
+package adapter;
+
 public class Biryani {
 
     static String x = Biryani.class.toString();

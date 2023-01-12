@@ -1,3 +1,5 @@
+package adapter;
+
 public class Pulao {
     static String x = Pulao.class.toString();
 
